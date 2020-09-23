@@ -29,4 +29,4 @@ All model weights can be found [here](https://drive.google.com/drive/folders/1s0
 
 # Report: 
 
-For detailed understanding refer [documentation](Final_Report.pdf)
+For detail understanding refer [documentation](Final_Report.pdf)
